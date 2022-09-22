@@ -1,5 +1,20 @@
 # 💫 About Me:
-Hello..!<br>I'm Mohit Birla and I'm a A Java Back-End Develop|<br>I am a highly detail-oriented and organized Java backend developer with excellent technical and communication skills. <br>Passionate about  coding  and  self-motivated  with a keen interest in building user-centric products. My non-tech roles <br>and background have  helped me to develop exceptional soft skills and become a great communicator. I bring passion, <br>determination and loyalty to any role I undertake.
+<h1 align="center">Hi there! I'm Mohit Birla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h2 align="center">Currently Learning Full-Stack Web Development from Masai School </h2>
+
+## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> My Details </p> 
+
+- 👨‍💻 Portfolio - **[Mohit Birla](https://mohitbirla20.github.io/)**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+- 🌱 I’m currently learning **JAVA & SQL**
+
+- 📫 How to reach me **mr.mohitbirla4920@gmail.com**
+
+- Connect with me - **[LinkedIn](https://www.linkedin.com/in/mohit-birla-b196bb233/)**
+
+<br/>
 
 
 ## 🌐 Socials:
