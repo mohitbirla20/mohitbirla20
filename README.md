@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 🌱 I’m currently learning **JAVA & SQL**
+- 🌱 I’m currently learning **Spring Boot**
 
 - I’m From **Indore** 
 
