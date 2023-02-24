@@ -1,46 +1,102 @@
+<!-- ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Suresh!](https://mohitbirla20.github.io/)  -->
 
-<h1 align="center">Hi there! I'm Mohit Birla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h2 align="center">Currently Learning Full-Stack Web Development from Masai School </h2>
+### नमस्ते (Namaste)🙏🏻, I am Mohit Birla !
 
-## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> My Details </p> 
+<a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;&center=true&width=400&height=40"></a>
+### 𝓘 𝓪𝓶 𝓪  Tech and Automation Enthusiast ,𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭  𝓽𝓸𝔀𝓪𝓻𝓭𝓼  API Development ❤️
 
-- 👨‍💻 Portfolio - **[Mohit Birla](https://mohitbirla20.github.io/)**
+- 🔭 I’m currently working on :- Java, Hibernate, SpringBoot, MySQL
+- 🌱 I’m currently learning :- Java Backend Developement, REST API, Design Patterns, SpringBoot_Microservice, AWS
+- 🤔 I’m looking for help with :- APISecurity, Web3, Heroku and Stocks
+- 💬 Ask me about:- Anything ( not my personal life , duhh !! )
+- ⚡ Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
+- 📄 Check out my resume : **[Resume](https://drive.google.com/file/d/1uLotiaaHJpzRu-ZgbnnguEL4sDbs9E3-/view)**
+- 📑 Check out my Portfolio : **[Portfolio](https://mohitbirla20.github.io/)**
+### 📫 How can you reach me?
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+<p align="left">
+    <a href="https://www.linkedin.com/in/mohit-birla-b196bb233?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrovONgGZTXWjDexRRKohIA%3D%3D">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN" />
+    </a>
+    <a href="https://mohitbirla20.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="PORTFOLIO" />
+    </a>
+    <a title="mohit" href="mailto:mr.mohitbirla4920@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL" />
+    </a>
+    <a title="Mohit_Birla_Resume" href="https://drive.google.com/file/d/1uLotiaaHJpzRu-ZgbnnguEL4sDbs9E3-/view">
+        <img align="center" src="https://img.shields.io/badge/Resume-F7B93E?style=for-the-badge&logo=Resume&logoColor=white" alt="RESUME" />
+    </a>
+</p>
+<br></br>
 
-- 🌱 I’m currently learning **Spring Boot Microservices**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitbirla20&label=Profile%20views&color=0e75b6&style=flat-square" alt="mohitbirla20" /> </p>
+<p> <img src="https://img.shields.io/github/followers/mohitbirla20?style=social" alt="mohitbirla20" /> </p>
 
-- I’m From **Indore** 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<em><b>I love talking About Code and meeting with different people </b>so if you want to say hi, <b> I'll be curious to know more!</b> 😊😊</em>
 
-- 📫 How to reach me **mr.mohitbirla4920@gmail.com**
 
-- Connect with me - **[LinkedIn](https://www.linkedin.com/in/mohit-birla-b196bb233/)**
+## 🛠️ Technologies and Tools I use:
 
+<p>
+
+<img alt="Java" src="https://img.shields.io/badge/JAVA-F7B93E?style=for-the-badge&logo=Java8&logoColor=white" height="25px"/>
+<img alt="Sb" src="https://img.shields.io/badge/Spring Boot-339933?style=for-the-badge&logo=Springboot&logoColor=white" height="25px"/>
+<img alt="Web API FastAPI" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" height="25px"/>
+<img alt="Hybernate" src="https://img.shields.io/badge/Hybernate-323330?style=for-the-badge&logo=Hybernate&logoColor=F7DF1E"  height="25px"/>
+<img alt="SQL" src="https://img.shields.io/badge/-MySQL-F7B93E?style=flat-square&logo=MySQL&logoColor=white" height="25px"/>
+
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+
+<img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"  height="25px"/>
+<img alt="npm" src="https://img.shields.io/badge/NPM-323330.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
+
+
+<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
+
+
+
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
+<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
+<img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25px"/>
+
+<img alt="Swagger" src="https://img.shields.io/badge/Swagger-339933?style=for-the-badge&logo=Swagger&logoColor=white" height="25px"/>
+<img alt="Lombok" src="https://img.shields.io/badge/-Lombok-F05032?style=flat-square&logo=Lombok&logoColor=white" height="25px"/>
+
+<img alt="Railway" src="https://img.shields.io/badge/-Railway-563D7C?style=flat-square&logo=Railway&logoColor=white" height="25px"/>
+<img alt="elasticsearch" src="https://img.shields.io/badge/-elasticsearch-339933?style=flat-square&logo=elasticsearch&logoColor=white" height="25px"/>
+</p>
+<br/>
+<p align="center"><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitbirla20&show_icons=true&title_color=ffc800&text_color=ffffff&bg_color=010000&locale=en&layout=compact" alt="mohitbirla20" /></p>
 <br/>
 
+### Used Tools:
 
-## 🌐 Socials:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-birla-b196bb233/) 
-- 👨‍💻 **[Portfolio](https://mohitbirla20.github.io/)**
-
-
-# 💻 Tech Stack:
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-%2300f.svg?style=for-the-badge&logo=hibernate&logoColor=white) ![spring](https://img.shields.io/badge/spring-%2300f.svg?style=for-the-badge&logo=spring&logoColor=white) ![CSS3](https://img.shields.io/badge/springboot-%231572B6.svg?style=for-the-badge&logo=springboot&logoColor=white) ![postman](https://img.shields.io/badge/postman-%231572B6.svg?style=for-the-badge&logo=postman&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+[![My Skills](https://skills.thijs.gg/icons?i=spring,hibernate,maven,mysql,aws,git,vscode,netlify,postman,railway,Railway)](https://skills.thijs.gg)
 
 
-# 📊 GitHub Stats:
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohitbirla20)](https://github.com/ryo-ma/github-profile-trophy)   
+<br />
+<br />
+<br />
+<br />
+<br><br>
+<h2 align="center">📊 My Github Stats<h2>
+<div>
+  <p align="left"> 
+   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitbirla20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
+          <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mohitbirla20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</p>
+<div>
+  </br>
+  
 
 
-![](https://github-readme-stats.vercel.app/api?username=mohitbirla20&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohitbirla20&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitbirla20&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohitbirla20)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=mohitbirla20&icon=0&color=0)](https://visitcount.itsvg.in)
+
